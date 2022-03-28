@@ -1,4 +1,4 @@
-![Sukhanosik](<https://s3.eu-west-1.amazonaws.com/resumedone-eu-west-1/nflqGMHNM-photo.png)
+![Sukhanosik](https://s3.eu-west-1.amazonaws.com/resumedone-eu-west-1/nflqGMHNM-photo.png)
 ***
 ## Сухоносик Дмитрий Николаевич
 ***
